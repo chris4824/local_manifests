@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project path="device/samsung/hercules" name="Team-Validus/device_samsung_hercules" remote="gh" revision="cm-12.0"/>
   <project path="hardware/samsung" name="CyanogenMod/android_hardware_samsung" remote="gh" revision="cm-12.0"/>
   <project path="hardware/qcom/audio-caf/msm8660" name="chris4824/android_hardware_qcom_audio-caf" remote="gh" revision="lollipop-8960" />
   <project path="hardware/qcom/media-caf/msm8660" name="chris4824/android_hardware_qcom_media-caf" remote="gh" revision="lollipop-8960" />
