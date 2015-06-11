@@ -5,8 +5,10 @@
            fetch="file:///home/chris/android/github_trackers" />
   <remote  name="local3"
            fetch="file:///home/chris/android/github_trackers/validus5.1/qcom_hardware_caf" />
+  <remote  name="git"
+           fetch="https://github.com/" />
 
-  <project path="hardware/samsung" name="CyanogenMod/android_hardware_samsung" remote="gh" revision="cm-12.1"/>
+  <project path="hardware/samsung" name="CyanogenMod/android_hardware_samsung" remote="git" revision="cm-12.1"/>
   <project path="hardware/qcom/audio-caf/msm8660" name="audio-caf/8660" remote="local3" revision="cm-12.1-caf-8660" />
   <project path="hardware/qcom/media-caf/msm8660" name="media-caf/8660" remote="local3" revision="cm-12.1-caf-8660" />
   <project path="hardware/qcom/display-caf/msm8660" name="display-caf/8660" remote="local3" revision="cm-12.1-caf-8660" />
