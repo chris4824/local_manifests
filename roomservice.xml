@@ -11,7 +11,7 @@
            fetch="https://github.com/" />
 
   <project name="android_device_samsung_jf-common" path="device/samsung/jf-common" remote="local1" revision="tesla" />
-  <project name="chris4824/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="gh" revision="tesla" />
+  <project name="chris4824/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="local2" revision="tesla" />
   <project name="CyanogenMod/android_device_samsung_msm8960-common" path="device/samsung/msm8960-common" remote="gh" revision="cm-12.1" />
   <project name="chris4824/android_kernel_samsung_jf" path="kernel/samsung/jf" remote="gh" revision="lp5.1" />
   <project name="TheMuppets/proprietary_vendor_samsung" path="vendor/samsung" remote="gh" revision="cm-12.1" />
@@ -25,4 +25,7 @@
   <project name="CyanogenMod/android_kernel_samsung_smdk4412" path="kernel/samsung/smdk4412" remote="github" revision="cm-12.1" />
   <project name="lirokoa/android_device_samsung_n80xx-common" path="device/samsung/n80xx-common" remote="github" revision="cm-12.1" />
   <project name="CyanogenMod/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="github" revision="cm-12.1" />-->
+<!-- trlte-->
+  <project name="CyanogenMod/android_kernel_samsung_trlte" path="kernel/samsung/trlte" remote="github" revision="cm-12.1" />
+  <project name="trlte/trlte-common" path="device/samsung/trlte-common" remote="local2" revision="cm-12.1" />
 </manifest>
