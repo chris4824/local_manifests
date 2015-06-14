@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="chris4824/local_manifests" path=".repo/local_manifests" remote="local2" revision="lp5.1" />
+  <project name="local_manifest" path=".repo/local_manifests" remote="local2" revision="merged_tesla" />
   <project name="android_device_samsung_jfltetmo" path="device/samsung/jfltetmo" remote="local1" revision="tesla" />
   <project name="android_device_samsung_jfltecan" path="device/samsung/jfltecan" remote="local1" revision="tesla" />
   <project name="hercules" path="device/samsung/hercules" remote="local2" revision="tesla" />
