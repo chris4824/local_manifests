@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <project name="android_device_samsung_jfltetmo" path="device/samsung/jfltetmo" remote="local1" revision="tesla" />
+  <project name="android_device_samsung_jfltecan" path="device/samsung/jfltecan" remote="local1" revision="tesla" />
+  <project name="hercules" path="device/samsung/hercules" remote="local2" revision="tesla" />
+  <project name="skyrocket" path="device/samsung/skyrocket" remote="local2" revision="tesla" />
+
+</manifest>
