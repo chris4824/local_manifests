@@ -10,24 +10,19 @@
   <remote  name="gh"
            fetch="https://github.com/" />
 
-  <project name="android_device_samsung_jfltetmo" path="device/samsung/jfltetmo" remote="local1" revision="lp5.1" />
-  <project name="android_device_samsung_jfltecan" path="device/samsung/jfltecan" remote="local1" revision="lp5.1" />
   <project name="android_device_samsung_jf-common" path="device/samsung/jf-common" remote="local1" revision="lp5.1" />
   <project name="chris4824/android_device_samsung_qcom-common" path="device/samsung/qcom-common" remote="gh" revision="lp5.1" />
   <project name="CyanogenMod/android_device_samsung_msm8960-common" path="device/samsung/msm8960-common" remote="gh" revision="cm-12.1" />
   <project name="chris4824/android_kernel_samsung_jf" path="kernel/samsung/jf" remote="gh" revision="lp5.1" />
   <project name="TheMuppets/proprietary_vendor_samsung" path="vendor/samsung" remote="gh" revision="cm-12.1" />
+  <project path="hardware/samsung" name="CyanogenMod/android_hardware_samsung" remote="gh" revision="cm-12.1"/>
+  <project path="hardware/qcom/audio-caf/msm8660" name="audio-caf/8660" remote="local3" revision="cm-12.1-caf-8660" />
+  <project path="hardware/qcom/media-caf/msm8660" name="media-caf/8660" remote="local3" revision="cm-12.1-caf-8660" />
+  <project path="hardware/qcom/display-caf/msm8660" name="display-caf/8660" remote="local3" revision="cm-12.1-caf-8660" />
 <!-- n8013
   <project name="TV-LP51-Devices/device_samsung_n8013" path="device/samsung/n8013" remote="github" revision="lp5.1" />
   <project name="CyanogenMod/android_device_samsung_smdk4412-common" path="device/samsung/smdk4412-common" remote="github" revision="cm-12.1" />
   <project name="CyanogenMod/android_kernel_samsung_smdk4412" path="kernel/samsung/smdk4412" remote="github" revision="cm-12.1" />
   <project name="lirokoa/android_device_samsung_n80xx-common" path="device/samsung/n80xx-common" remote="github" revision="cm-12.1" />
   <project name="CyanogenMod/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="github" revision="cm-12.1" />-->
-
-  <project path="hardware/samsung" name="CyanogenMod/android_hardware_samsung" remote="gh" revision="cm-12.1"/>
-  <project path="hardware/qcom/audio-caf/msm8660" name="audio-caf/8660" remote="local3" revision="cm-12.1-caf-8660" />
-  <project path="hardware/qcom/media-caf/msm8660" name="media-caf/8660" remote="local3" revision="cm-12.1-caf-8660" />
-  <project path="hardware/qcom/display-caf/msm8660" name="display-caf/8660" remote="local3" revision="cm-12.1-caf-8660" />
-  <project name="hercules" path="device/samsung/hercules" remote="local2" revision="lp5.1" />
-  <project name="skyrocket" path="device/samsung/skyrocket" remote="local2" revision="lp5.1" />
 </manifest>
