@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+
+  <remote  name="local1"
+           fetch="file:///home/chris/android/github_trackers/s4/validus5.1" />
+  <remote  name="local2"
+           fetch="file:///home/chris/android/github_trackers" />
+  <remote  name="local3"
+           fetch="file:///home/chris/android/github_trackers/validus5.1/qcom_hardware_caf" />
+  <remote  name="gh"
+           fetch="https://github.com/" />
+
   <project name="local_manifest" path=".repo/local_manifests" remote="local2" revision="merged_tesla" />
   <project name="android_device_samsung_jfltetmo" path="device/samsung/jfltetmo" remote="local1" revision="tesla" />
   <project name="android_device_samsung_jfltecan" path="device/samsung/jfltecan" remote="local1" revision="tesla" />
