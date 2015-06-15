@@ -15,7 +15,8 @@
   <project name="CyanogenMod/android_kernel_samsung_smdk4412" path="kernel/samsung/smdk4412" remote="github" revision="cm-12.1" />
   <project name="lirokoa/android_device_samsung_n80xx-common" path="device/samsung/n80xx-common" remote="github" revision="cm-12.1" />
   <project name="CyanogenMod/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="github" revision="cm-12.1" />-->
-<!-- trlte-->
+<!-- trlte
+  <project name="CyanogenMod/android_device_qcom_common" path="device/qcom/common" remote="github" revision="cm-12.1" />
   <project name="CyanogenMod/android_kernel_samsung_trlte" path="kernel/samsung/trlte" remote="github" revision="cm-12.1" />
-  <project name="trlte/trlte-common" path="device/samsung/trlte-common" remote="local2" revision="cm-12.1" />
+  <project name="trlte/trlte-common" path="device/samsung/trlte-common" remote="local2" revision="cm-12.1" />-->
 </manifest>
