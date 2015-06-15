@@ -16,5 +16,7 @@
   <project name="skyrocket" path="device/samsung/skyrocket" remote="local2" revision="lp5.1" />
 <!-- trlte
   <project name="trlte/trltetmo" path="device/samsung/trltetmo" remote="local2" revision="cm-12.1" />-->
+<!-- n8013
+  <project name="TV-LP51-Devices/device_samsung_n8013" path="device/samsung/n8013" remote="github" revision="lp5.1" />-->
 
 </manifest>
